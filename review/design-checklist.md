@@ -1,0 +1,1 @@
+/Users/ignaciovenegas/.claude/skills/gstack/review/design-checklist.md

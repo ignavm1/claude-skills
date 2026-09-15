@@ -1,0 +1,1 @@
+/Users/ignaciovenegas/.claude/skills/gstack/pair-agent/SKILL.md
